@@ -1,0 +1,89 @@
+ignition-math6 (6.15.1-1~noble) noble; urgency=medium
+
+  * ignition-math6 6.15.1-1 release
+
+ -- Addisu Z. Taddese <addisu@openrobotics.org>  Fri, 05 Jan 2024 14:39:27 -0600
+
+ignition-math6 (6.15.0-1~noble) noble; urgency=medium
+
+  * ignition-math6 6.15.0-1 release
+
+ -- Addisu Z. Taddese <addisu@openrobotics.org>  Fri, 01 Sep 2023 11:02:51 -0500
+
+ignition-math6 (6.14.0-1~noble) noble; urgency=medium
+
+  * ignition-math6 6.14.0-1 release
+
+ -- Addisu Z. Taddese <addisu@openrobotics.org>  Fri, 14 Apr 2023 12:54:59 -0500
+
+ignition-math6 (6.13.0-3~noble) noble; urgency=medium
+
+  * ignition-math6 6.13.0-3 release
+
+ -- Steve Peters <scpeters@openrobotics.org>  Sat, 15 Oct 2022 00:13:30 -0700
+
+ignition-math6 (6.13.0-2~noble) noble; urgency=medium
+
+  * ignition-math6 6.13.0-2 release
+
+ -- Steve Peters <scpeters@openrobotics.org>  Fri, 14 Oct 2022 17:06:16 -0700
+
+ignition-math6 (6.13.0-1~noble) noble; urgency=medium
+
+  * ignition-math6 6.13.0-1 release
+
+ -- Brandon Ong <brandon@openrobotics.org>  Wed, 31 Aug 2022 15:10:17 -0700
+
+ignition-math6 (6.12.0-3~noble) noble; urgency=medium
+
+  * ignition-math6 6.12.0-3 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Thu, 25 Aug 2022 13:00:20 +0200
+
+ignition-math6 (6.12.0-2~noble) noble; urgency=medium
+
+  * ignition-math6 6.12.0-2 release
+
+ -- Louise Poubel <louise@openrobotics.org>  Fri, 12 Aug 2022 13:51:33 -0700
+
+ignition-math6 (6.12.0-1~noble) noble; urgency=medium
+
+  * ignition-math6 6.12.0-1 release
+
+ -- Louise Poubel <louise@openrobotics.org>  Wed, 27 Jul 2022 09:40:06 -0700
+
+ignition-math6 (6.11.0-3~noble) noble; urgency=medium
+
+  * ignition-math6 6.11.0-3 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Thu, 12 May 2022 00:05:37 +0200
+
+ignition-math6 (6.11.0-2~noble) noble; urgency=medium
+
+  * ignition-math6 6.11.0-2 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Wed, 11 May 2022 21:36:04 +0200
+
+ignition-math6 (6.11.0-1~noble) noble; urgency=medium
+
+  * ignition-math6 6.11.0-1 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Wed, 11 May 2022 21:00:58 +0200
+
+ignition-math6 (6.10.0-100~noble) noble; urgency=medium
+
+  * Rebuild same code for python3.10 transition
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Tue, 05 Apr 2022 19:51:16 +0200
+
+ignition-math6 (6.10.0-99~noble) noble; urgency=medium
+
+  * ignition-math6 6.12.0-99 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Tue, 15 Feb 2022 20:13:08 +0100
+
+ignition-math6 (6.10.0-1~noble) noble; urgency=medium
+
+  * First release for noble
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Thu, 10 Feb 2022 18:59:07 +0100
